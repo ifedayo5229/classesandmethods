@@ -1,0 +1,13 @@
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\obj\Debug\netcoreapp3.1\ClassesAndMethods.csprojAssemblyReference.cache
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\obj\Debug\netcoreapp3.1\ClassesAndMethods.AssemblyInfoInputs.cache
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\obj\Debug\netcoreapp3.1\ClassesAndMethods.AssemblyInfo.cs
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\obj\Debug\netcoreapp3.1\ClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\bin\Debug\netcoreapp3.1\ClassesAndMethods.exe
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\bin\Debug\netcoreapp3.1\ClassesAndMethods.deps.json
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\bin\Debug\netcoreapp3.1\ClassesAndMethods.runtimeconfig.json
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\bin\Debug\netcoreapp3.1\ClassesAndMethods.runtimeconfig.dev.json
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\bin\Debug\netcoreapp3.1\ClassesAndMethods.dll
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\bin\Debug\netcoreapp3.1\ClassesAndMethods.pdb
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\obj\Debug\netcoreapp3.1\ClassesAndMethods.dll
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\obj\Debug\netcoreapp3.1\ClassesAndMethods.pdb
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\ClassesAndMethods\obj\Debug\netcoreapp3.1\ClassesAndMethods.genruntimeconfig.cache
